@@ -19,7 +19,7 @@ _Reports;
 O script onde está os comandos que executam os testes é o integration/finances.spec.js
 
 
-# Para executar o Teste, Utilize no Terminal:
+# [Para executar o Teste, Utilize no Terminal:]
 npx cypress open
 
 
