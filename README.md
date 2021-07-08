@@ -16,7 +16,7 @@ _Reports;
 
 
 # [Info:]
-O script onde está os comandos que executam os testes é o integration/finances.spec.js
+O script onde estão os comandos que executam os testes é o = integration/finances.spec.js
 
 
 # [Para executar o Teste, Utilize no Terminal:]
