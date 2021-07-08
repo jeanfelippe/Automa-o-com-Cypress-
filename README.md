@@ -1,6 +1,6 @@
 
 # [Projeto Semana do curso Agilizei]
-Projeto realizado nos 5 dias de maratona agilizei onde utilizei Cypress na automação.
+Projeto realizado nos 5 dias de maratona agilizei onde utilizei Cypress para automação.
 
 
 # [Frameworks]:
